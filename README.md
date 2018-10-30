@@ -1,2 +1,6 @@
 # node-scripts
-Random Node Build Scripts.
+
+- changelog
+  - generate.js - generates a changelog in Keep-A-Changelg format
+
+
